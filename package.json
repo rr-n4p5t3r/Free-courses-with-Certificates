@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tremor/react": "^3.8.2",
+    "@tremor/react": "^3.18.7",
     "bootstrap": "^5.2.2",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.279.0",
